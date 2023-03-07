@@ -115,5 +115,6 @@ romain.getNom());
 romain.recevoirCoup(force / 3);
 }
 }
+wallah
 
 
