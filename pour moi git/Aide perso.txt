@@ -1,1 +1,9 @@
-git 
+git branch nom_de_branche   (creer )
+
+git checkout nom_de_branche  (se deplacer desssus)
+
+git push --set upstream origin nom_de_branche (envoyer dessus )
+
+git fetch (recuperer)
+
+git checkout nom_de_branche
